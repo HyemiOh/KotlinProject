@@ -1,8 +1,6 @@
 ## 로또번호 추첨기
 -------------
-<br>
-<img src="Lotto.png">
-<br><br>
+![Lotto](https://user-images.githubusercontent.com/48354502/129835458-b8cf3221-5b7f-46d0-a458-0948869c468b.PNG)
 
 * ConstraintLayout
 * NumberPicker
